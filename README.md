@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="Header.svg" width="100%" alt="Michael Cornelius Bong" />
+<img src="assets/header.svg" width="100%" alt="Michael Cornelius Bong" />
 
 </div>
 
 <div align="center">
 
-<img src="Banner.webp" width="100%" alt="Banner" />
+<img src="assets/banner.webp" width="100%" alt="Banner" />
 
 </div>
 
@@ -38,17 +38,6 @@ I'm here to learn, build projects, and keep improving one commit at a time.
 
 ### Tools
 <p><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT" /> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DOCKER" /> <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS CODE" /></p>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MichaelCorneliusBong&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=e11d48&icon_color=e11d48&text_color=c9d1d9&ring_color=e11d48&count_private=true" />
-<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCorneliusBong&layout=compact&bg_color=0d1117&border_color=30363d&title_color=e11d48&text_color=c9d1d9&hide_border=false" />
-
-</div>
 
 <br>
 
