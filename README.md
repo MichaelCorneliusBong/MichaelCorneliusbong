@@ -1,20 +1,18 @@
-<!-- ⚠️ Replace every YOUR_USERNAME below with your real GitHub username -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:e11d48&height=140&section=header&text=Michael%20Cornelius%20Bong&fontSize=38&fontColor=ffffff&fontAlignY=45&desc=Student%20%E2%80%A2%20Esa%20Unggul%20University&descSize=15&descColor=ff4d6d&descAlignY=72" width="100%" alt="Header" />
+<img src="Header.svg" width="100%" alt="Michael Cornelius Bong" />
 
 </div>
 
 <div align="center">
 
-<img src="https://img.yugioh-card.com/eu/wp-content/uploads/2024/08/TCGSNS-YCS_Lille_2024_News_Banner.webp" width="100%" alt="Banner" />
+<img src="Banner.webp" width="100%" alt="Banner" />
 
 </div>
 
 <br>
 
-## `> About`
+## 👨‍💻 About Me
 
 Hi, I'm **Michael Cornelius Bong**, a student at **Esa Unggul University** who enjoys building software, from desktop logic in C++ to web and mobile apps.
 I'm here to learn, build projects, and keep improving one commit at a time.
@@ -24,39 +22,26 @@ I'm here to learn, build projects, and keep improving one commit at a time.
 ## 🛠️ Tech Stack
 
 ### Languages
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPESCRIPT" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON" />
-<img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="DART" />
+<p><img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JAVASCRIPT" /> <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPESCRIPT" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON" /> <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="DART" /></p>
 
 ### Frontend
-<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NEXT.JS" />
-<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT" />
-<img src="https://img.shields.io/badge/TAILWIND%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TAILWIND CSS" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<p><img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NEXT.JS" /> <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT" /> <img src="https://img.shields.io/badge/TAILWIND%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TAILWIND CSS" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></p>
 
 ### Backend
-<img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="LARAVEL" />
-<img src="https://img.shields.io/badge/NODE.JS-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NODE.JS" />
+<p><img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="LARAVEL" /> <img src="https://img.shields.io/badge/NODE.JS-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NODE.JS" /></p>
 
 ### Mobile
-<img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FLUTTER" />
+<p><img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FLUTTER" /></p>
 
 ### Database
-<img src="https://img.shields.io/badge/MYSQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
-<img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRESQL" />
+<p><img src="https://img.shields.io/badge/MYSQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" /> <img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRESQL" /></p>
 
 ### Tools
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
-<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DOCKER" />
-<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS CODE" />
+<p><img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT" /> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DOCKER" /> <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS CODE" /></p>
 
 <br>
 
-## `> Github Stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -67,7 +52,7 @@ I'm here to learn, build projects, and keep improving one commit at a time.
 
 <br>
 
-## `> Currently`
+## 🚀 Currently
 
 - 🎓 Studying at **Esa Unggul University**
 - 🌱 Learning and building with **Laravel** and **Flutter**
@@ -75,7 +60,7 @@ I'm here to learn, build projects, and keep improving one commit at a time.
 
 <br>
 
-## `> Contact`
+## 📫 Contact
 
 <div align="center">
 
@@ -85,9 +70,3 @@ I'm here to learn, build projects, and keep improving one commit at a time.
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e11d48,100:0d1117&height=60&section=footer" width="100%" alt="Footer" />
-
-</div>
