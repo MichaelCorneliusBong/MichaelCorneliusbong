@@ -41,6 +41,29 @@ I'm here to learn, build projects, and keep improving one commit at a time.
 
 <br>
 
+## 💻 Dev Setup
+
+<p><img src="https://img.shields.io/badge/ASUS%20TUF%20GAMING%20A15-000000?style=for-the-badge&logo=asus&logoColor=white" alt="ASUS TUF Gaming A15" /> <img src="https://img.shields.io/badge/RTX%204050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA RTX 4050" /> <img src="https://img.shields.io/badge/16GB%20RAM-E11D48?style=for-the-badge" alt="16 GB RAM" /></p>
+
+| Hardware | Spec |
+| :-- | :-- |
+| 💻 Laptop | ASUS TUF Gaming A15 |
+| 🎮 GPU | NVIDIA GeForce RTX 4050 |
+| 🧠 RAM | 16 GB |
+
+<br>
+
+## 🃏 Fun Facts
+
+- 🐉 My favorite card is **Mirrorjade the Iceblade Dragon**
+- ⚔️ I've been playing Yu-Gi-Oh! competitively since the **TOSS format**
+- 🎮 I play **OCG**, **Master Duel**, and **Genesys**
+- 🌐 I run a website dedicated to Yu-Gi-Oh! Genesys :
+
+<p><a href="https://genesys.genesysmeta.web.id"><img src="https://img.shields.io/badge/GENESYS%20META-e11d48?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Genesys Meta website" /></a></p>
+
+<br>
+
 ## 🚀 Currently
 
 - 🎓 Studying at **Esa Unggul University**
