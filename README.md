@@ -16,8 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Michael Cornelius Bong**, a student at **Esa Unggul University** who enjoys building software, from desktop logic in C++ to web and mobile apps.
-I'm here to learn, build projects, and keep improving one commit at a time.
+Hi, I'm Michael 👋 I'm a student who likes turning ideas into working software. I run my own server to keep learning how things work behind the scenes. Away from the keyboard I'm a competitive Yu-Gi-Oh! player, and it shapes how I work, plan a few turns ahead, know your resources, and always keep a backup play. I even run a website dedicated to Yu-Gi-Oh! Genesys. Feel free to take a look around. ⚔️
 
 <br>
 
@@ -65,7 +64,7 @@ I'm here to learn, build projects, and keep improving one commit at a time.
 | ⚙️ CPU | Intel Processor |
 | 🧠 RAM | 8 GB |
 | 🐧 OS | Ubuntu Server |
-| 🐳 Runs | Docker containers |
+| 🐳 Runs | Docker Containers |
 
 <br>
 
@@ -74,7 +73,7 @@ I'm here to learn, build projects, and keep improving one commit at a time.
 - 🐉 My favorite card is **Mirrorjade the Iceblade Dragon**
 - ⚔️ I've been playing Yu-Gi-Oh! competitively since the **TOSS format**
 - 🎮 I play **OCG**, **Master Duel**, and **Genesys**
-- 🌐 I run a website dedicated to Yu-Gi-Oh! Genesys :
+- 🌐 I run a website dedicated to **Yu-Gi-Oh! Genesys**
 
 <p><a href="https://genesys.genesysmeta.web.id"><img src="https://img.shields.io/badge/GENESYS%20META-e11d48?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Genesys Meta website" /></a></p>
 
