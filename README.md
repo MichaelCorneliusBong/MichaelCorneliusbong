@@ -45,8 +45,8 @@ I'm here to learn, build projects, and keep improving one commit at a time.
 
 <div align="center">
 
-<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=e11d48&icon_color=e11d48&text_color=c9d1d9&ring_color=e11d48&count_private=true" />
-<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=0d1117&border_color=30363d&title_color=e11d48&text_color=c9d1d9&hide_border=false" />
+<img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MichaelCorneliusBong&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=e11d48&icon_color=e11d48&text_color=c9d1d9&ring_color=e11d48&count_private=true" />
+<img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCorneliusBong&layout=compact&bg_color=0d1117&border_color=30363d&title_color=e11d48&text_color=c9d1d9&hide_border=false" />
 
 </div>
 
