@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Michael Cornelius Bong" />
+<img src="Assets/Header.svg" width="100%" alt="Michael Cornelius Bong" />
 
 </div>
 
 <div align="center">
 
-<img src="assets/banner.webp" width="100%" alt="Banner" />
+<img src="Assets/Banner.webp" width="100%" alt="Banner" />
 
 </div>
 
