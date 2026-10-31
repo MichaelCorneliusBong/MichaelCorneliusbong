@@ -10,6 +10,8 @@
 
 </div>
 
+<p align="center"><b><i>“Live, even if it’s a sin.”</i></b></p>
+
 <br>
 
 ## 👨‍💻 About Me
@@ -43,13 +45,27 @@ I'm here to learn, build projects, and keep improving one commit at a time.
 
 ## 💻 Dev Setup
 
-<p><img src="https://img.shields.io/badge/ASUS%20TUF%20GAMING%20A15-000000?style=for-the-badge&logo=asus&logoColor=white" alt="ASUS TUF Gaming A15" /> <img src="https://img.shields.io/badge/RTX%204050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA RTX 4050" /> <img src="https://img.shields.io/badge/16GB%20RAM-E11D48?style=for-the-badge" alt="16 GB RAM" /></p>
+<p><img src="https://img.shields.io/badge/ASUS%20TUF%20GAMING%20A15-000000?style=for-the-badge&logo=asus&logoColor=white" alt="ASUS TUF Gaming A15" /> <img src="https://img.shields.io/badge/RTX%204050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA RTX 4050" /> <img src="https://img.shields.io/badge/16GB%20RAM-E11D48?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZicgZmlsbC1ydWxlPSdldmVub2RkJyBkPSdNMiA1aDIwYTEgMSAwIDAgMSAxIDF2MTBIMVY2YTEgMSAwIDAgMSAxLTF6TTQgOGg0djRINHpNMTAgOGg0djRoLTR6TTE2IDhoNHY0aC00eicvPjxwYXRoIGZpbGw9JyNmZmYnIGQ9J00yLjUgMTcuNWgxLjV2M0gyLjV6TTUuNSAxNy41SDd2M0g1LjV6TTguNSAxNy41SDEwdjNIOC41ek0xNCAxNy41aDEuNXYzSDE0ek0xNyAxNy41aDEuNXYzSDE3ek0yMCAxNy41aDEuNXYzSDIweicvPjwvc3ZnPg%3D%3D" alt="16 GB RAM" /></p>
 
 | Hardware | Spec |
 | :-- | :-- |
 | 💻 Laptop | ASUS TUF Gaming A15 |
 | 🎮 GPU | NVIDIA GeForce RTX 4050 |
 | 🧠 RAM | 16 GB |
+
+<br>
+
+## 🖥️ Server Specs
+
+<p><img src="https://img.shields.io/badge/INTEL-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" /> <img src="https://img.shields.io/badge/16GB%20RAM-E11D48?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZicgZmlsbC1ydWxlPSdldmVub2RkJyBkPSdNMiA1aDIwYTEgMSAwIDAgMSAxIDF2MTBIMVY2YTEgMSAwIDAgMSAxLTF6TTQgOGg0djRINHpNMTAgOGg0djRoLTR6TTE2IDhoNHY0aC00eicvPjxwYXRoIGZpbGw9JyNmZmYnIGQ9J00yLjUgMTcuNWgxLjV2M0gyLjV6TTUuNSAxNy41SDd2M0g1LjV6TTguNSAxNy41SDEwdjNIOC41ek0xNCAxNy41aDEuNXYzSDE0ek0xNyAxNy41aDEuNXYzSDE3ek0yMCAxNy41aDEuNXYzSDIweicvPjwvc3ZnPg%3D%3D" alt="16 GB RAM" /> <img src="https://img.shields.io/badge/UBUNTU%20SERVER-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" /> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></p>
+
+| Component | Spec |
+| :-- | :-- |
+| 🏠 Type | Personal Server |
+| ⚙️ CPU | Intel Processor |
+| 🧠 RAM | 8 GB |
+| 🐧 OS | Ubuntu Server |
+| 🐳 Runs | Docker containers |
 
 <br>
 
@@ -78,6 +94,7 @@ I'm here to learn, build projects, and keep improving one commit at a time.
 
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=e11d48)](mailto:zeexals@student.esaunggul.ac.id)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e11d48)](https://instagram.com/Numerounious)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=e11d48)](https://portofolio.genesysmeta.web.id)
 
 </div>
 
