@@ -12,13 +12,26 @@
 
 <p align="center"><b><i>“Live, even if it’s a sin.”</i></b></p>
 
+<p align="center">
+<a href="#about"><img src="https://img.shields.io/badge/ABOUT-161b22?style=for-the-badge" alt="About Me" /></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-161b22?style=for-the-badge" alt="Tech Stack" /></a>
+<a href="#dev-setup"><img src="https://img.shields.io/badge/DEV%20SETUP-161b22?style=for-the-badge" alt="Dev Setup" /></a>
+<a href="#server"><img src="https://img.shields.io/badge/SERVER-161b22?style=for-the-badge" alt="Server Specs" /></a>
+<a href="#fun-facts"><img src="https://img.shields.io/badge/FUN%20FACTS-161b22?style=for-the-badge" alt="Fun Facts" /></a>
+<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-161b22?style=for-the-badge" alt="Contact" /></a>
+</p>
+
 <br>
+
+<a id="about"></a>
 
 ## 👨‍💻 About Me
 
 Hi, I'm Michael 👋 I'm a student who likes turning ideas into working software. I run my own server to keep learning how things work behind the scenes. Away from the keyboard I'm a competitive Yu-Gi-Oh! player, and it shapes how I work, plan a few turns ahead, know your resources, and always keep a backup play. I even run a website dedicated to Yu-Gi-Oh! Genesys. Feel free to take a look around. ⚔️
 
 <br>
+
+<a id="tech-stack"></a>
 
 ## 🛠️ Tech Stack
 
@@ -42,6 +55,8 @@ Hi, I'm Michael 👋 I'm a student who likes turning ideas into working software
 
 <br>
 
+<a id="dev-setup"></a>
+
 ## 💻 Dev Setup
 
 <p><img src="https://img.shields.io/badge/ASUS%20TUF%20GAMING%20A15-000000?style=for-the-badge&logo=asus&logoColor=white" alt="ASUS TUF Gaming A15" /> <img src="https://img.shields.io/badge/RTX%204050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA RTX 4050" /> <img src="https://img.shields.io/badge/16GB%20RAM-E11D48?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZicgZmlsbC1ydWxlPSdldmVub2RkJyBkPSdNMiA1aDIwYTEgMSAwIDAgMSAxIDF2MTBIMVY2YTEgMSAwIDAgMSAxLTF6TTQgOGg0djRINHpNMTAgOGg0djRoLTR6TTE2IDhoNHY0aC00eicvPjxwYXRoIGZpbGw9JyNmZmYnIGQ9J00yLjUgMTcuNWgxLjV2M0gyLjV6TTUuNSAxNy41SDd2M0g1LjV6TTguNSAxNy41SDEwdjNIOC41ek0xNCAxNy41aDEuNXYzSDE0ek0xNyAxNy41aDEuNXYzSDE3ek0yMCAxNy41aDEuNXYzSDIweicvPjwvc3ZnPg%3D%3D" alt="16 GB RAM" /></p>
@@ -54,9 +69,11 @@ Hi, I'm Michael 👋 I'm a student who likes turning ideas into working software
 
 <br>
 
+<a id="server"></a>
+
 ## 🖥️ Server Specs
 
-<p><img src="https://img.shields.io/badge/INTEL-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" /> <img src="https://img.shields.io/badge/16GB%20RAM-E11D48?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZicgZmlsbC1ydWxlPSdldmVub2RkJyBkPSdNMiA1aDIwYTEgMSAwIDAgMSAxIDF2MTBIMVY2YTEgMSAwIDAgMSAxLTF6TTQgOGg0djRINHpNMTAgOGg0djRoLTR6TTE2IDhoNHY0aC00eicvPjxwYXRoIGZpbGw9JyNmZmYnIGQ9J00yLjUgMTcuNWgxLjV2M0gyLjV6TTUuNSAxNy41SDd2M0g1LjV6TTguNSAxNy41SDEwdjNIOC41ek0xNCAxNy41aDEuNXYzSDE0ek0xNyAxNy41aDEuNXYzSDE3ek0yMCAxNy41aDEuNXYzSDIweicvPjwvc3ZnPg%3D%3D" alt="16 GB RAM" /> <img src="https://img.shields.io/badge/UBUNTU%20SERVER-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" /> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></p>
+<p><img src="https://img.shields.io/badge/INTEL-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel" /> <img src="https://img.shields.io/badge/8GB%20RAM-E11D48?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZicgZmlsbC1ydWxlPSdldmVub2RkJyBkPSdNMiA1aDIwYTEgMSAwIDAgMSAxIDF2MTBIMVY2YTEgMSAwIDAgMSAxLTF6TTQgOGg0djRINHpNMTAgOGg0djRoLTR6TTE2IDhoNHY0aC00eicvPjxwYXRoIGZpbGw9JyNmZmYnIGQ9J00yLjUgMTcuNWgxLjV2M0gyLjV6TTUuNSAxNy41SDd2M0g1LjV6TTguNSAxNy41SDEwdjNIOC41ek0xNCAxNy41aDEuNXYzSDE0ek0xNyAxNy41aDEuNXYzSDE3ek0yMCAxNy41aDEuNXYzSDIweicvPjwvc3ZnPg%3D%3D" alt="8 GB RAM" /> <img src="https://img.shields.io/badge/UBUNTU%20SERVER-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" /> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></p>
 
 | Component | Spec |
 | :-- | :-- |
@@ -67,6 +84,8 @@ Hi, I'm Michael 👋 I'm a student who likes turning ideas into working software
 | 🐳 Runs | Docker Containers |
 
 <br>
+
+<a id="fun-facts"></a>
 
 ## 🃏 Fun Facts
 
@@ -86,6 +105,8 @@ Hi, I'm Michael 👋 I'm a student who likes turning ideas into working software
 - 🤝 Open to collaborating on student and open-source projects
 
 <br>
+
+<a id="contact"></a>
 
 ## 📫 Contact
 
