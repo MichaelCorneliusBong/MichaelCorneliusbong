@@ -13,12 +13,12 @@
 <p align="center"><b><i>“Live, even if it’s a sin.”</i></b></p>
 
 <p align="center">
-<a href="#about"><img src="https://img.shields.io/badge/ABOUT-161b22?style=for-the-badge" alt="About Me" /></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-161b22?style=for-the-badge" alt="Tech Stack" /></a>
-<a href="#dev-setup"><img src="https://img.shields.io/badge/DEV%20SETUP-161b22?style=for-the-badge" alt="Dev Setup" /></a>
-<a href="#server"><img src="https://img.shields.io/badge/SERVER-161b22?style=for-the-badge" alt="Server Specs" /></a>
-<a href="#fun-facts"><img src="https://img.shields.io/badge/FUN%20FACTS-161b22?style=for-the-badge" alt="Fun Facts" /></a>
-<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-161b22?style=for-the-badge" alt="Contact" /></a>
+<a href="#user-content-about"><img src="https://img.shields.io/badge/ABOUT-161b22?style=for-the-badge" alt="About Me" /></a>
+<a href="#user-content-tech-stack"><img src="https://img.shields.io/badge/TECH%20STACK-161b22?style=for-the-badge" alt="Tech Stack" /></a>
+<a href="#user-content-dev-setup"><img src="https://img.shields.io/badge/DEV%20SETUP-161b22?style=for-the-badge" alt="Dev Setup" /></a>
+<a href="#user-content-server"><img src="https://img.shields.io/badge/SERVER-161b22?style=for-the-badge" alt="Server Specs" /></a>
+<a href="#user-content-fun-facts"><img src="https://img.shields.io/badge/FUN%20FACTS-161b22?style=for-the-badge" alt="Fun Facts" /></a>
+<a href="#user-content-contact"><img src="https://img.shields.io/badge/CONTACT-161b22?style=for-the-badge" alt="Contact" /></a>
 </p>
 
 <br>
